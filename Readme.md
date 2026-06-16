@@ -79,7 +79,7 @@ Soy desarrollador Full Stack con más de **3 años de experiencia** construyendo
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zizicode&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zizicode&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=zizicode&theme=tokyonight)
 
 </div>
 
