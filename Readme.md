@@ -14,7 +14,7 @@
 
 ## Sobre mí
 
-Soy desarrollador Full Stack con más de **3 años de experiencia** construyendo aplicaciones web y móviles. Mi stack principal es **MERN** (MongoDB, Express.js, React.js, Node.js), y me apasiona crear soluciones que no solo funcionen bien, sino que también ofrezcan una gran experiencia de usuario.
+Soy desarrollador Full Stack con más de **5 años de experiencia** construyendo aplicaciones web y móviles. Mi stack principal es **MERN** (MongoDB, Express.js, React.js, Node.js), y me apasiona crear soluciones que no solo funcionen bien, sino que también ofrezcan una gran experiencia de usuario.
 
 - 🚀 Apasionado por Node.js y el ecosistema JavaScript
 - 🌐 Desarrollo tanto frontend como backend desde cero
